@@ -3,4 +3,5 @@ LRU -  The Least Recently Used (LRU) Page Replacement Algorithm. A good approxim
 
 # Execution:
 gcc -w lru.c 
+
 ./a.out
